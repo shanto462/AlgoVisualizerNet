@@ -1,0 +1,17 @@
+C:\Users\Shanto\source\repos\AlgoVisualizer\AlgoVisualizer\bin\Debug\AlgoVisualizer.exe.config
+C:\Users\Shanto\source\repos\AlgoVisualizer\AlgoVisualizer\bin\Debug\AlgoVisualizer.exe
+C:\Users\Shanto\source\repos\AlgoVisualizer\AlgoVisualizer\bin\Debug\AlgoVisualizer.pdb
+C:\Users\Shanto\source\repos\AlgoVisualizer\AlgoVisualizer\obj\Debug\AlgoVisualizer.csprojAssemblyReference.cache
+C:\Users\Shanto\source\repos\AlgoVisualizer\AlgoVisualizer\obj\Debug\AlgoVisualizer.Properties.Resources.resources
+C:\Users\Shanto\source\repos\AlgoVisualizer\AlgoVisualizer\obj\Debug\AlgoVisualizer.csproj.GenerateResource.cache
+C:\Users\Shanto\source\repos\AlgoVisualizer\AlgoVisualizer\obj\Debug\AlgoVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\Shanto\source\repos\AlgoVisualizer\AlgoVisualizer\obj\Debug\AlgoVisualizer.exe
+C:\Users\Shanto\source\repos\AlgoVisualizer\AlgoVisualizer\obj\Debug\AlgoVisualizer.pdb
+C:\Users\Shanto\source\repos\AlgoVisualizer\AlgoVisualizer\bin\Debug\MaterialSkin.dll
+C:\Users\Shanto\source\repos\AlgoVisualizer\AlgoVisualizer\obj\Debug\AlgoVisualizer.AlgorithmListForm.resources
+C:\Users\Shanto\source\repos\AlgoVisualizer\AlgoVisualizer\obj\Debug\AlgoVisualizer.csproj.CopyComplete
+C:\Users\Shanto\source\repos\AlgoVisualizer\AlgoVisualizer\obj\Debug\AlgoVisualizer.SortingAlgos.BaseSortMat.resources
+C:\Users\Shanto\source\repos\AlgoVisualizer\AlgoVisualizer\obj\Debug\AlgoVisualizer.SortingAlgos.BubbleSortMat.resources
+C:\Users\Shanto\source\repos\AlgoVisualizer\AlgoVisualizer\obj\Debug\AlgoVisualizer.SortingAlgos.HeapSortMat.resources
+C:\Users\Shanto\source\repos\AlgoVisualizer\AlgoVisualizer\obj\Debug\AlgoVisualizer.SortingAlgos.MergeSortMat.resources
+C:\Users\Shanto\source\repos\AlgoVisualizer\AlgoVisualizer\obj\Debug\AlgoVisualizer.SortingAlgos.QuickSort.resources

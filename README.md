@@ -1,1 +1,2 @@
 "# AlgoVisualizerNet" 
+"MIT" 
